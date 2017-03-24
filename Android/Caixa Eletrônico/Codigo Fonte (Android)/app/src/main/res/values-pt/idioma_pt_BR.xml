@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Projeto Integrado</string>
+
+    <string name="view.telaAcesso.titulo">Acesso</string>
+    <string name="view.telaAcesso.agencia">Digite sua agência neste campo</string>
+    <string name="view.telaAcesso.conta">Digite sua conta neste campo</string>
+    <string name="view.telaAcesso.senha">Digite sua senha neste campo</string>
+    <string name="view.telaAcesso.acessar">Acessar</string>
+    <string name="view.telaAcesso.voltar">Voltar</string>
+</resources>

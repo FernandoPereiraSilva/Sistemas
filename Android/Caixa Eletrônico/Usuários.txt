@@ -1,0 +1,51 @@
+Para realizar o acesso ao sistema e necessario acessar um arquivo de txt externo, este arquivo esta criptografado, os usuarios sao:
+
+Conta: 12345678
+Agência: 0001
+Senha: 1234
+Codigo de acesso: 013
+
+Conta: 23456789
+Agência: 0002
+Senha: 1234
+Codigo de acesso: 013
+
+Conta: 34567890
+Agência: 0003
+Senha: 1234
+Codigo de acesso: 013
+
+Conta: 45678901
+Agência: 0004
+Senha: 1234
+Codigo de acesso: 013
+
+Conta: 56789012
+Agência: 0005
+Senha: 1234
+Codigo de acesso: 013
+
+Conta: 67890123
+Agência: 0006
+Senha: 1234
+Codigo de acesso: 013
+
+Conta: 78901234
+Agência: 0007
+Senha: 1234
+Codigo de acesso: 013
+
+Conta: 89012345
+Agência: 0008
+Senha: 1234
+Codigo de acesso: 013
+
+Conta: 90123456
+Agência: 0009
+Senha: 1234
+Codigo de acesso: 013
+
+Conta: 99999999
+Agência: 0010
+Senha: 1234
+Codigo de acesso: 013
